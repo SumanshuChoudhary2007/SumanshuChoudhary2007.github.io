@@ -1,6 +1,7 @@
 # Sumanshu Choudhary
-<br>
-I compleated my schooling from "Sangrur Public Senior secondary School, Sangrur, Punjab".I got 86% in class 12 .currently I got admission in "Guru Nanak Dev Engineering Collage, Ludhiana".I like to learn new things.
+## Portfolio:-
+Hello, my name is ***Sumanshu Choudhary***.I belong from Sangrur.I completed my schooling from **Sangrur Public Senior Secondary School, Sangrur, Punjab**.I scored **86%** in class 12th .
+I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***.
 
 ![20231106_155700](https://github.com/user-attachments/assets/9780ca53-699f-4835-bde0-95f7d61de80a)
 
@@ -12,9 +13,7 @@ I compleated my schooling from "Sangrur Public Senior secondary School, Sangrur,
 |English|87|
 |Punjabi|88|
 
-for contech me  
-
-scan this
+##### To Contact me:-
 
 ![IMG-20240714-WA0007 1](https://github.com/user-attachments/assets/d86850f3-8b9d-489b-b3aa-891a288e2311)
 

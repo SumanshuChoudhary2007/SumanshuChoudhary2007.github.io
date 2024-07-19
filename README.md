@@ -13,7 +13,7 @@ I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***
 |English|87|
 |Punjabi|88|
 
-##### To Contact me:-
+#### To Contact me:-
 
 ![IMG-20240714-WA0007 1](https://github.com/user-attachments/assets/fbe787aa-44ae-4917-8f1f-6526c53eaf5f)
 
@@ -22,6 +22,6 @@ I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***
 E-mail :- Sumanshu2007@gmail.com
 
 
-##### For Daily Blog
+#### For Daily Blog
 
 [click Here](https://sumanshuchoudhary2007.github.io/dailyblog.github.io/)

@@ -22,7 +22,7 @@ I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***
 
 
 
-### _To Contact me:_
+## _To Contact me:_
 
 ![IMG-20240714-WA0007 1](https://github.com/user-attachments/assets/fbe787aa-44ae-4917-8f1f-6526c53eaf5f)
 
@@ -33,6 +33,7 @@ I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***
 
 
 
-### _For Daily Blog:_
+
+## _For Daily Blog:_
 
 [click Here](https://sumanshuchoudhary2007.github.io/dailyblog.github.io/)

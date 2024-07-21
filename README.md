@@ -15,17 +15,15 @@ I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***
 
 
 
-##### *My Excel Certificate:*
+#### *My Excel Certificate:*
 
 ![WhatsApp Image 2024-07-21 at 13 17 04_4a98d609](https://github.com/user-attachments/assets/cc8ff633-2f24-46be-9819-15563288ea4d)
 
 
 
-
-## _To Contact me:_
+### _To Contact me:_
 
 ![IMG-20240714-WA0007 1](https://github.com/user-attachments/assets/fbe787aa-44ae-4917-8f1f-6526c53eaf5f)
-
 
 
 
@@ -33,7 +31,6 @@ I am persuing Btech IT at ***Guru Nanak Dev Engineering College, Ludiana***
 
 
 
-
-## _For Daily Blog:_
+### _For Daily Blog:_
 
 [click Here](https://sumanshuchoudhary2007.github.io/dailyblog.github.io/)
